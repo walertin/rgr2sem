@@ -1,0 +1,9 @@
+dim v1, v2, v2 as ty_uint; 
+dim mx1 as ty_matrix;
+
+123 for each v in v1*(v2+v3) do 
+    load(v1);
+    let v2 = 12;
+next 12 
+
+dim v10 as ty_uint;
